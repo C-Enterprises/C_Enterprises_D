@@ -1,6 +1,6 @@
 # C Enterprises 🏗️
 
-**"The Builder's Collective."**
+The Builder's Collective.
 
 This is the central command and public log for **C Enterprises**. I don't follow trends, and I don't chase the noise. I am here to build raw, high-performance infrastructure and establish a standard of absolute transparency in Web3.
 
